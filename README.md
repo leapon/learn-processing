@@ -1,5 +1,10 @@
 # learn-processing
-processing
+
+Tutorial
+--------
+http://learningprocessing.com/examples/
+
+https://github.com/shiffman/LearningProcessing
 
 
 
